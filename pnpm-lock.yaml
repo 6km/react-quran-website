@@ -18,8 +18,8 @@ importers:
         specifier: ^18
         version: 18.3.1(react@18.3.1)
       react-quran:
-        specifier: ^1.2.3
-        version: 1.2.3(@babel/core@7.24.7)(react-dom@18.3.1(react@18.3.1))(react-is@16.13.1)(react@18.3.1)
+        specifier: ^1.2.5
+        version: 1.2.5(@babel/core@7.24.7)(react-dom@18.3.1(react@18.3.1))(react-is@16.13.1)(react@18.3.1)
     devDependencies:
       '@types/node':
         specifier: ^20
@@ -1430,8 +1430,8 @@ packages:
   react-is@16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
 
-  react-quran@1.2.3:
-    resolution: {integrity: sha512-tavjcNXCgsnIOH13kCPwD8zhXC5ZEEoL/WfA6CWcOIwYJru1sw54rnVViiPp8of8VnPPwOs34uZ4U4Hpv42KHQ==}
+  react-quran@1.2.5:
+    resolution: {integrity: sha512-YkowePW1Ua5pZOxiVwPwOLhaYG93dE2kUxPhP0b8J2SVTAB0WM2YAPEk+9+MFwLyxL6oOdW9Jry9DuM2ufDJnA==}
     peerDependencies:
       react: ^17.0.0
 
@@ -3367,7 +3367,7 @@ snapshots:
 
   react-is@16.13.1: {}
 
-  react-quran@1.2.3(@babel/core@7.24.7)(react-dom@18.3.1(react@18.3.1))(react-is@16.13.1)(react@18.3.1):
+  react-quran@1.2.5(@babel/core@7.24.7)(react-dom@18.3.1(react@18.3.1))(react-is@16.13.1)(react@18.3.1):
     dependencies:
       clipboard-copy: 4.0.1
       react: 18.3.1
